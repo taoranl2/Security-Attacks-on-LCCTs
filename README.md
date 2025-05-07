@@ -32,13 +32,13 @@ You may manually trigger LCCTs to complete the attack code for demonstration, if
 If you use this codebase, or our idea inspires your work, welcome cite:
 
 ```bibtex 
-@misc{cheng2024securityattacksllmbasedcode,
-      title={Security Attacks on LLM-based Code Completion Tools}, 
-      author={Wen Cheng and Ke Sun and Xinyu Zhang and Wei Wang},
-      year={2024},
-      eprint={2408.11006},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL},
-      url={https://arxiv.org/abs/2408.11006}, 
+@inproceedings{cheng2025security,
+  title={Security attacks on llm-based code completion tools},
+  author={Cheng, Wen and Sun, Ke and Zhang, Xinyu and Wang, Wei},
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={39},
+  number={22},
+  pages={23669--23677},
+  year={2025}
 }
 ```
